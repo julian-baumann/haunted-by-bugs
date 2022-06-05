@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+    margin: 0;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+section {
+    text-align: center;
+}
+
+section img {
+    width: 100%;
+    max-width: 600px;
+}
+
+section p {
+    opacity: 0.9;
+}
+
+section hr {
+    max-width: 500px;
+    border: 1px solid rgb(186, 186, 186);
+    border-radius: 10px;
+    margin: 50px auto;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.8em;
+}
