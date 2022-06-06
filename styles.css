@@ -6,22 +6,22 @@ body {
     margin: 0 auto;
 }
 
-section {
+article {
     text-align: center;
 }
 
-section img {
+article img {
     width: 100%;
     max-width: 600px;
 }
 
-section p {
+article p {
     opacity: 0.9;
 }
 
-section hr {
+article hr {
     max-width: 500px;
-    border: 1px solid rgb(186, 186, 186);
+    border: 1px solid #bababa;
     border-radius: 10px;
     margin: 50px auto;
 }
